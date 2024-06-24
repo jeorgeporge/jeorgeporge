@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner Image](https://www.vecteezy.com/vector-art/2292582-elegant-black-and-gold-banner-background)
+![Banner Image]()
  
 **jeorgeporge/jeorgeporge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
