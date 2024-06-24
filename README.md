@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fthe-legend-of-zelda-tears-of-the-kingdom-hieroglyph-wallpaper--795940934169420698%2F&psig=AOvVaw2NcJWXqlNy5Sloe6ucIoGH&ust=1719321213012000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDZ2pup9IYDFQAAAAAdAAAAABAE)
-
+![Banner Image](https://www.vecteezy.com/vector-art/2292582-elegant-black-and-gold-banner-background)
+ 
 **jeorgeporge/jeorgeporge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
